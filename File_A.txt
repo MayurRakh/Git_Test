@@ -6,5 +6,4 @@ Hello ... Line ... 3 Added
 
 
 test(){
-  // Hellooooooo
 }
