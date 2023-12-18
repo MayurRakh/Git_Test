@@ -1,1 +1,8 @@
-db...line 1	
+db...line 1
+
+
+
+
+public void line6(){
+  // Resolved Bug-No-06
+}	
