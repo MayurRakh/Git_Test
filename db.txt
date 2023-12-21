@@ -11,3 +11,10 @@ public void line88888888888(){
 public void line8__stash(){
  // working on line 8
 }
+
+// Bug No 123
+public void m1(){
+  // working on m1()
+}
+
+
